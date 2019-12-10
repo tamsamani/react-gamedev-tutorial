@@ -1,0 +1,16 @@
+
+$font-family : Lato;
+
+$gray : #999999;
+$light : #fafafa;
+$dark : #1f1f1f;
+
+
+$page-background : $dark;
+$page-foreground : $light;
+
+body {
+  font-family: $font-family;
+  background-color: $page-background;
+  color : $page-foreground;
+}
